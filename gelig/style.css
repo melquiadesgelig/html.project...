@@ -1,0 +1,32 @@
+.pictures
+{
+  border: width 25px;
+  width: 50%;
+  background-color: antiquewhite;
+  border: white 5px;
+  margin-left: 25%;
+  color: black;
+  text-align: center;
+}
+
+body
+{
+    background-image: url(./1234.jpg); 
+}
+
+img
+{
+    height: 50%;
+    width: 50%;
+    border: 5px solid white;
+    margin-left: 0%;
+}
+
+.a:hover
+{
+  content: url(./10.jpg);
+}
+
+
+
+
